@@ -15,7 +15,7 @@ My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**<a href="report.ipynb">jls224 Midterm Report</a>**_
+_**<a href="https://github.com/jls224/jls224.github.io/blob/master/report.ipynb">jls224 Midterm Report</a>**_
 
 
 Here you will find my report from the FIN 377 Midterm.
