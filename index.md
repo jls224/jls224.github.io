@@ -6,7 +6,7 @@ My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img src="/images/pretty flowers.jpg?raw=true" width="50%">
+  <img src="/images/pretty flowers.jpg?raw=true" width="75%">
 </p>
 
 ---
@@ -19,7 +19,7 @@ _**<a href="https://github.com/jls224/jls224.github.io/blob/master/report.ipynb"
 
 Here you will find my report from the FIN 377 Midterm.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/beach 1.jpg?raw=true" width="50%"/>
 
 
 ---
