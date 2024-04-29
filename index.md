@@ -19,7 +19,7 @@ _**<a href="https://github.com/jls224/jls224.github.io/blob/master/report.ipynb"
 
 Here you will find my report from the FIN 377 Midterm.
 
-<img src="images/beach 1.jpg?raw=true" width="50%"/>
+<img src="images/beach 1.jpg?raw=true" width="75%"/>
 
 
 ---
