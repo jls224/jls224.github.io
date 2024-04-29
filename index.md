@@ -36,9 +36,9 @@ This is a research paper I wrote my sophomore year of college with Professor Pat
 
 ## Career Objectives
 
-I became a member of the Town of Ramapo Youth Court during my freshman year of high school and ever since then, I have been working to have a career in law. Despite most pre-law students at Lehigh University being Political Science majors, I had the unique perspective of being a Finance major. While not specifically any field of law, the business school prepared students well with a corporate law background. When interviewing for my current position as Litigation Paralegal at Wachtell Lipton, this proved to be an advantage as I had a strong understanding of business and corporate law. 
+I became a member of the Town of Ramapo Youth Court during my freshman year of high school and ever since then, I have been working to have a career in law. Despite most pre-law students at Lehigh University being Political Science majors, I had the unique perspective of being a Finance major. The business school prepared students well with corporate law classes and interdisciplinary courses for those that wanted to go beyond the core cirriculum. When interviewing for my current position as Litigation Paralegal at Wachtell Lipton, this proved to be an advantage as I had a strong understanding of both business and corporate law. 
 
-Following my time working for Wachtell Lipton, I plan to attend law school in the Northeast. I aspire to be a great corporate lawyer and am on track to accomplish my goals. 
+Following my time as a paralegal for Wachtell Lipton, I plan to attend law school in the Northeast. I aspire to be a successful corporate lawyer and am on track to accomplish my goals. 
 <p style="text-align:center;">
   <img src="images/pretty campus.jpg?raw=true" width="75%"/>
 </p>
