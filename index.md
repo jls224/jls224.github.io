@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh University in Bethlehem, Pennsylvania where I graduated with a Bachelors of Science and Economics in Finance. While in college I took many opportunities to advance my professional skills and show my work ethic and drive to be involved. I was an active member of the Alpha Epsilon Pi Fraternity and an Interfraternity Council member, executive board member of the Pre-Law Society, and student panelist of the University Committee on Discipline. I also took this time to work in internships to prepare for a career in the legal field, including working at the Rockland County District Attorney's Office and at The Law Offices of Phillips and Millman. Today, I am a Litigation Paralegal at Wachtell, Lipton, Rosen & Katz in New York. For further information, contact me via email. 
+My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh University in Bethlehem, Pennsylvania where I graduated with a Bachelors of Science and Economics in Finance. While in college I took many opportunities to advance my professional skills and show my work ethic and drive to be involved. I was President of the Sigma Eta chapter of the Alpha Epsilon Pi Fraternity, an Interfraternity Council member, Treasurer of the Pre-Law Society, and student panelist of the University Committee on Discipline. I also took this time to work in internships to prepare for a career in the legal field, including working at the Rockland County District Attorney's Office and at The Law Offices of Phillips and Millman. Today, I am a Litigation Paralegal at Wachtell, Lipton, Rosen & Katz in New York. For further information, contact me via email. 
 
 
 <!-- Upload your own photo and change the path -->
@@ -48,5 +48,3 @@ I grew up with Nintendo games and Marvel shows and while I do not have as much t
 Photography is a new hobby of mine, mostly in the form of disposable film and polaroid photos. I have a portfolio of my favorite time-capsule pictures on instagram so that I can hold onto these memories in a way that feels more tangible compared to the pictures you can take on your phone. In fact, I included a few of my favorites on this website.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
