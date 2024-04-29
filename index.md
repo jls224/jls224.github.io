@@ -52,6 +52,6 @@ I grew up with Nintendo games and Marvel shows and while I do not have as much t
 
 Photography is a new hobby of mine, mostly in the form of disposable film and polaroid photos. I have a portfolio of my favorite time-capsule pictures on instagram so that I can hold onto these memories in a way that feels more tangible compared to the pictures you can take on your phone. In fact, I included a few of my favorites on this website.
 <p style="text-align:center;">
-  <img src="images/lawn.jpg?raw=true" width="75%"/>
+  <img src="images/the lawn.jpg?raw=true" width="75%"/>
 </p>
 ---
