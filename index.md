@@ -39,7 +39,9 @@ This is a research paper I wrote my sophomore year of college with Professor Pat
 I became a member of the Town of Ramapo Youth Court during my freshman year of high school and ever since then, I have been working to have a career in law. Despite most pre-law students at Lehigh University being Political Science majors, I had the unique perspective of being a Finance major. While not specifically any field of law, the business school prepared students well with a corporate law background. When interviewing for my current position as Litigation Paralegal at Wachtell Lipton, this proved to be an advantage as I had a strong understanding of business and corporate law. 
 
 Following my time working for Wachtell Lipton, I plan to attend law school in the Northeast. I aspire to be a great corporate lawyer and am on track to accomplish my goals. 
-
+<p style="text-align:center;">
+  <img src="images/pretty campus.jpg?raw=true" width="75%"/>
+</p>
 ---
 
 ## Hobbies
@@ -49,5 +51,7 @@ I love music, fitness, pop culture, photography, and cooking. A lot of these int
 I grew up with Nintendo games and Marvel shows and while I do not have as much time these days to watch shows or play video games, I always find myself going back to them every so often to see what things are like now compared to when I was younger.
 
 Photography is a new hobby of mine, mostly in the form of disposable film and polaroid photos. I have a portfolio of my favorite time-capsule pictures on instagram so that I can hold onto these memories in a way that feels more tangible compared to the pictures you can take on your phone. In fact, I included a few of my favorites on this website.
-
+<p style="text-align:center;">
+  <img src="images/lawn.jpg?raw=true" width="75%"/>
+</p>
 ---
