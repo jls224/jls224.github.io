@@ -44,7 +44,7 @@ I love music, fitness, pop culture, photography, and cooking. A lot of these int
 
 I grew up with Nintendo games and Marvel shows and while I do not have as much time these days to watch shows or play video games, I always find myself going back to them every so often to see what things are like now compared to when I was younger.
 
-Photography is a new hobby of mine, mostly in the form of disposable film and polaroid photos. I have a portfolio of my favorite time-capsule pictures on instagram so that I can hold onto these memories in a way that feels more tangible compared to the pictures you can take on your phone. 
+Photography is a new hobby of mine, mostly in the form of disposable film and polaroid photos. I have a portfolio of my favorite time-capsule pictures on instagram so that I can hold onto these memories in a way that feels more tangible compared to the pictures you can take on your phone. In fact, I included a few of my favorites on this website.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
