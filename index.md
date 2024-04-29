@@ -26,15 +26,15 @@ Here you will find my report from the FIN 377 Midterm.
 
 _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/beach 1.jpg?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
+I became a member of the Town of Ramapo Youth Court during my freshman year of high school and ever since then, I have been working to have a career in law. Despite most pre-law students at Lehigh University being Political Science majors, I had the unique perspective of being a Finance major. While not specifically any field of law, the business school prepared students well with a corporate law background. When interviewing for my current position as Litigation Paralegal at Wachtell Lipton, this proved to be an advantage as I had a strong understanding of business and corporate law. 
 
-Sell yourself!
+Following my time working for Wachtell Lipton, I plan to attend law school in the Northeast. I aspire to be a great corporate lawyer and am on track to accomplish my goals. 
 
 ---
 
