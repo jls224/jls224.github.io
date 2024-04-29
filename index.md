@@ -6,7 +6,7 @@ My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src=""/images/pretty flowers.png?raw=true" width="50%">
 </p>
 
 ---
