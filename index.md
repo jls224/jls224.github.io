@@ -24,7 +24,7 @@ Here you will find my report from the FIN 377 Midterm.
 
 ---
 ## Legal Research
-_**[The Right to Withhold Services to the US Government for Protection of Civil Liberties](Josh Simon Law Research FIrst draft.pdf)**_
+_**[The Right to Withhold Services to the US Government for Protection of Civil Liberties](Josh Simon Law Research FIrst Draft.pdf)**_
 This is a research paper I wrote my sophomore year of college with Professor Patrick McCormick on the legalities surrounding the government's ability to bypass personal privacy in order to conduct their operations for the sake of public safety. I am very proud of how this paper turned out; however, I never had the opportunity to polish it for publishing so it is currently in a rough state. I hope to revist this in Law School to be able to pursue getting it published and possibly expand on it with data that did not exist two years ago and with my more refined research skills. 
 <img src="images/beach 1.jpg?raw=true"/>
 
