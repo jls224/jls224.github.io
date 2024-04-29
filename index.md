@@ -11,29 +11,16 @@ My name is Josh Simon and I am from Rockland County, New York. I attended Lehigh
 
 ---
 
-## Pre
+## FIN 377 Midterm Report
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[jls224 Midterm Report](midterm_summary)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Here you will find my report from the FIN 377 Midterm.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
